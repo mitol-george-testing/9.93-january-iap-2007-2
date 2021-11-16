@@ -1,0 +1,35 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy",
+      "Ethics"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Social Science",
+      "Psychology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "a2bcabde-5438-66c7-f3ba-4be936ef6e8d",
+      "922eaa24-6844-481d-0a45-3ec5df04c5bb",
+      "e27dc0c5-3212-2b0f-b5a4-073cea66aa3d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Marathon Moral Reasoning Laboratory",
+  "course_description": "This seminar focuses on the cognitive science of moral reasoning. Philosophers debate how we decide which moral actions are permissible. Is it permissible to take one human life in order to save others? We have powerful and surprisingly rich and subtle intuitions to such questions.\n\nIn this class, you will learn how intuitions can be studied using formal analytical paradigms and behavioral experiments. Thursday evening, meet to learn about recent advances in theories of moral reasoning. Overnight, formulate a hypothesis about the structure of moral reasoning and design a questionnaire-based experiment to test this. Friday, present and select 1-2 proposals and collect data; we will then reconvene to analyze and discuss results and implications for the structure of the moral mind.\n\nThis course is offered during the Independent Activities Period (IAP), which is a special 4-week term at MIT that runs from the first week of January until the end of the month.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.93",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
